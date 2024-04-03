@@ -1,0 +1,9 @@
+com\rohit\identityverify\security\jwthandlers\JwtUtilTest.class
+com\mavericks\scanpro\controllers\CheckControllerTest.class
+com\mavericks\scanpro\security\jwt\AuthEntryPointTest.class
+com\mavericks\scanpro\security\jwt\AuthTokenFilterTest.class
+com\mavericks\scanpro\ScanproApplicationTests.class
+com\mavericks\scanpro\services\ProfileServiceTest.class
+com\mavericks\scanpro\controllers\ProfileControllerTest.class
+com\mavericks\scanpro\security\userDetailsTest.class
+com\mavericks\scanpro\ocr\InvoiceProcessingServiceTest.class
